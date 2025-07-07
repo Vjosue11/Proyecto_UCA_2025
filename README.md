@@ -14,7 +14,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
 - `test_login.py`: Script de prueba para verificar el funcionamiento del login y la importación de módulos.
 - `supermercado.db`: Base de datos SQLite con las tablas de productos, movimientos y usuarios.
 - `README_LOGIN.md`: Documentación específica sobre el sistema de login modernizado.
-- `auth.py`: (Vacío, reservado para futuras funcionalidades de autenticación avanzada).
+  
 
 ---
 
