@@ -75,8 +75,6 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
 - Prueba automatizada del sistema de login.
 - Verifica la importación y funcionamiento de la ventana de login.
 
-### `auth.py`
-- Archivo vacío, reservado para futuras mejoras de autenticación.
 
 ---
 
