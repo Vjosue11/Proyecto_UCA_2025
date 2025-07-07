@@ -32,7 +32,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
    ```
 
 3. **Usuarios de prueba**:
-   - Administrador: `admin` / `admin`
+   - Administrador: `admin` / `admin123`
    - Usuario: `usuario` / `usuario`
 
 4. **Registrar nuevo usuario**:
